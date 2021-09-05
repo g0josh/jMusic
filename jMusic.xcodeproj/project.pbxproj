@@ -11,6 +11,7 @@
 		183A4F8B26E4C656002FB1D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183A4F8A26E4C656002FB1D6 /* ContentView.swift */; };
 		183A4F8D26E4C657002FB1D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 183A4F8C26E4C657002FB1D6 /* Assets.xcassets */; };
 		183A4F9026E4C657002FB1D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 183A4F8F26E4C657002FB1D6 /* Preview Assets.xcassets */; };
+		183A4F9826E4C787002FB1D6 /* Neeye_oli.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 183A4F9726E4C787002FB1D6 /* Neeye_oli.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		183A4F8C26E4C657002FB1D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		183A4F8F26E4C657002FB1D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		183A4F9126E4C657002FB1D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		183A4F9726E4C787002FB1D6 /* Neeye_oli.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Neeye_oli.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		183A4F8726E4C656002FB1D6 /* jMusic */ = {
 			isa = PBXGroup;
 			children = (
+				183A4F9726E4C787002FB1D6 /* Neeye_oli.mp3 */,
 				183A4F8826E4C656002FB1D6 /* jMusicApp.swift */,
 				183A4F8A26E4C656002FB1D6 /* ContentView.swift */,
 				183A4F8C26E4C657002FB1D6 /* Assets.xcassets */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183A4F9826E4C787002FB1D6 /* Neeye_oli.mp3 in Resources */,
 				183A4F9026E4C657002FB1D6 /* Preview Assets.xcassets in Resources */,
 				183A4F8D26E4C657002FB1D6 /* Assets.xcassets in Resources */,
 			);
